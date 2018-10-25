@@ -1,3 +1,5 @@
 .vscode
 *.pyc
 *.svg
+*.csv
+*,json
