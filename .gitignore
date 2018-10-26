@@ -2,4 +2,4 @@
 *.pyc
 *.svg
 *.csv
-*,json
+*.json
